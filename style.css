@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+body{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;  
+    background-color:#FAFAD2;
+}
+.red{
+    background-color: red;
+    width: 420px;
+    height: 70px;
+}
+.green{
+    background-color: green;
+    width: 420px;
+    height: 70px;
+}
+.blue{
+    background-color: blue;
+    width: 420px;
+    height: 70px;
+}
+h1{
+    margin-left: 400px;
+}
+div{
+    margin-left: 400px;
+}
+.red1{
+    float: left;
+    background-color: red;
+    width: 140px;
+    height: 70px;
+    margin-top: 20px;
+
+}
+.green1{
+    float: left;
+    background-color: green;
+    width: 140px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 0px;
+}
+.blue1{
+    float: left;
+    background-color: blue;
+    width: 140px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 0px;
+}
+.yellow{
+    background-color: yellow;
+    width: 420px;
+    height: 70px;
+    margin-top: 90px;
+}
+.grey{
+    float: left;
+    background-color: grey;
+    width: 210px;
+    height: 70px;
+}
+.black{
+    float: left;
+    background-color: black;
+    width: 210px;
+    height: 70px;
+    margin-left: 0;
+}
+.salat{
+    margin-top: 90px;
+       padding: 20px;
+       background-color: chartreuse;
+       height: 140px;
+       width: 400px;
+}
+.red2{
+    float: left;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 0;
+
+}
+.green2{
+    float: left;
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.blue2{
+    float: left;
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+span{
+    margin-left: 5px;
+    margin-top: 10px;
+}
